@@ -34,7 +34,7 @@
     "swagger-client": "^3.10.0",
     "typeface-roboto": "0.0.75",
     "uuid-parse": "^1.1.0",
-    "whatwg-fetch": "^3.0.0"
+    "whatwg-fetch": "^3.6.2"
   },
   "scripts": {
     "analyze": "source-map-explorer build/static/js/main.*",
